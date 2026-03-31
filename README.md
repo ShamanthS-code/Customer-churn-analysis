@@ -9,7 +9,8 @@ This project analyzes customer churn using Python, SQL, and Power BI to identify
 	•	Power BI
 
 
-📊 Key Insights:-
+📊 Key Insights:-          
+
 	•	Month-to-month contracts have the highest churn
 	•	Customers with higher monthly charges are more likely to churn
 	•	Low tenure customers churn more
