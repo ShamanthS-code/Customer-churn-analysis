@@ -5,7 +5,7 @@ This project analyzes customer churn using Python, SQL, and Power BI to identify
 
 🛠 Tools Used:-       
 
-	• Python (Pandas)
+	• Python (Pandas, Matplotlib, Seaborn)
 	• SQL (MySQL)
 	• Power BI
 
@@ -23,6 +23,7 @@ This project analyzes customer churn using Python, SQL, and Power BI to identify
 	• cleaned_churn_data.csv → Python analysis
 	• churn_analysis.sql → SQL queries
 	• churn_dashboard.png → Power BI dashboard
+	• Churn_analysis.ipynb
 
 
 📌 Dashboard Preview
