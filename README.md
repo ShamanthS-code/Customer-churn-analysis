@@ -4,23 +4,22 @@ This project analyzes customer churn using Python, SQL, and Power BI to identify
 
 
 🛠 Tools Used:-
-	•	Python (Pandas)
-	•	SQL (MySQL)
-	•	Power BI
+	• Python (Pandas)
+	• SQL (MySQL)
+	• Power BI
 
 
 📊 Key Insights:-          
-
-	•	Month-to-month contracts have the highest churn
-	•	Customers with higher monthly charges are more likely to churn
-	•	Low tenure customers churn more
-	•	Long-term contracts reduce churn significantly
+    • Month-to-month contracts have the highest churn
+	• Customers with higher monthly charges are more likely to churn
+	• Low tenure customers churn more
+	•Long-term contracts reduce churn significantly
 
 
 📁 Files in this Repository:-
-	•	cleaned_churn_data.csv → Python analysis
-	•	churn_analysis.sql → SQL queries
-	•	churn_dashboard.png → Power BI dashboard
+	• cleaned_churn_data.csv → Python analysis
+	• churn_analysis.sql → SQL queries
+	• churn_dashboard.png → Power BI dashboard
 
 
 📌 Dashboard Preview
