@@ -20,10 +20,12 @@ This project analyzes customer churn using Python, SQL, and Power BI to identify
 
 📁 Files in this Repository:-
 
-	• cleaned_churn_data.csv → Python analysis
+    • Churn_analysis.ipynb  → Python analysis
+	• cleaned_churn_data.csv → Cleaned data
 	• churn_analysis.sql → SQL queries
 	• churn_dashboard.png → Power BI dashboard
-	• Churn_analysis.ipynb
+	
+	
 
 
 📌 Dashboard Preview
